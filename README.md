@@ -18,7 +18,8 @@ Key design parameters were evaluated to understand their impact on aircraft perf
 The project demonstrates how design variables influence overall aircraft performance and mission capability.
 
 ##CAD Design
-![CAD](doc.pdf)
+![CAD](Cad/Full_Cad.png)
+![FRONT VIEW](Cad/Full_Cad.png)
 
 ##CODES
 ![Codes](Code)
