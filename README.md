@@ -21,7 +21,7 @@ The project demonstrates how design variables influence overall aircraft perform
 ![CAD](doc.pdf)
 
 ##CODES
-![Codes](doc.pdf)
+![Codes](Code)
 
 ##Report
 ![Report](Reports)
