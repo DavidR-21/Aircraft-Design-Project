@@ -19,7 +19,7 @@ The project demonstrates how design variables influence overall aircraft perform
 
 ##CAD Design
 ![CAD](Cad/Full_Cad.png)
-![FRONT VIEW](Cad/Full_Cad.png)
+![TOP VIEW](Cad/Top_View.png)
 
 ##CODES
 ![Codes](Code)
